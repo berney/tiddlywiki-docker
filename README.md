@@ -1,6 +1,7 @@
 # Supported tags and respective `Dockerfile` links
 
-- [`5.3.5`, `5.3`, `5`, `latest` (*5/Dockerfile*)](https://github.com/elasticdog/tiddlywiki-docker/blob/master/5/Dockerfile)
+- [`5.3.6`, `5.3`, `5`, `latest` (*5/Dockerfile*)](https://github.com/elasticdog/tiddlywiki-docker/blob/master/5/Dockerfile)
+- [`5.3.6`](https://github.com/elasticdog/tiddlywiki-docker/blob/5.3.6/5/Dockerfile)
 - [`5.3.5`](https://github.com/elasticdog/tiddlywiki-docker/blob/5.3.5/5/Dockerfile)
 - [`5.3.4`](https://github.com/elasticdog/tiddlywiki-docker/blob/5.3.4/5/Dockerfile)
 - [`5.3.3`](https://github.com/elasticdog/tiddlywiki-docker/blob/5.3.3/5/Dockerfile)
